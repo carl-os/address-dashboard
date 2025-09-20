@@ -6,3 +6,10 @@ The contents of this project were based on the addresses available on the San Fr
 
 
 By default, the Dash app will showcase the last 7 days of created/updated addresses. Work to reliably retrieve address data asynchronously has not been achieved, but it would be a future goal. Currently the only way to view address data would be to export the data from the San Francisco open data portal as a CSV and place it in an accompanying `data` directory.
+
+# Usage
+To run the Dash application, download the required Python libraries in the `requirements.txt` file and run the following on your command line:
+
+```
+python app.py
+```
