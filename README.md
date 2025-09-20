@@ -4,4 +4,5 @@ An example of using Dash to display recently created/updated addresses with a ma
 
 The contents of this project were based on the addresses available on the San Francisco open data portal. It is therefore not meant to be used as a template, but moreso as a project showcase. Creating a dashboard for a city's address data would require an exploring the available fields and how it could be displayed on a dashboard.
 
-By default, the Dash app will showcase the last 7 days of created/updated addresses. Work to reliably retrieve address data asynchronously has not been achieved, but it would be a future goal. Currently the only way to view address data would be to export the data from the San Francisco open data portal as a CSV and place it in the accompaying `data` directory.
+
+By default, the Dash app will showcase the last 7 days of created/updated addresses. Work to reliably retrieve address data asynchronously has not been achieved, but it would be a future goal. Currently the only way to view address data would be to export the data from the San Francisco open data portal as a CSV and place it in an accompanying `data` directory.
